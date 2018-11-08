@@ -12,4 +12,5 @@ Frysepizza
 bananer
 æbler
 forårsruller
-
+æg
+agurk
