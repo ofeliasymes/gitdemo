@@ -7,3 +7,5 @@ Kaffesukker
 chips
 sodavand
 matadormix
+Ananas
+Frysepizza
