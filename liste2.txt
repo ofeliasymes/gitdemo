@@ -4,3 +4,6 @@ Kaffe
 Brød
 Kaffefløde
 Kaffesukker
+chips
+sodavand
+matadormix
